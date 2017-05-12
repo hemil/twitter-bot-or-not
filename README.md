@@ -16,6 +16,11 @@ Once, the details of a few politicians are collected, an attempt can be made to 
 different leaders of the same political party (Narendra Modi and Amit Shah), different leaders of different
 party (Narendra Modi and Shashi Tharoor), and the leader and the handle of their party (Narendra Modi and
 BJP).
-Further, sentiment analysis can be done on the activity (linking tweets, content of tweets) of users which
+
+- [x] get followers
+- [x] compare followers
+- [ ] optimize bot identification to reduce false positives
+- [ ] sentiment analysis can be done on the activity (linking tweets, content of tweets) of users which
 are common to two political parties, to determine if they are using the platform to polarize the opinion of
 others on the platform.
+- [ ] Deal with the small API rate limit for personal use (60 requests per hour, 5000 follower ids per request).
